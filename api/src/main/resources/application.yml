@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: cake
+server:
+  port: 9000
+  tomcat:
+    uri-encoding: utf-8
